@@ -5,10 +5,10 @@ This is a simple dice game built with HTML, CSS, and JavaScript. It allows two p
 ## Game Instructions
 
 1. Open the `index.html` file in a web browser.
-2. The game will display two dice images for Player 1 and Player 2.
+2. The game will display two dice values for Player 1 and Player 2.
 3. Click the "Refresh" button or refresh the page to roll the dice and determine the winner.
-4. The dice images will update with the corresponding numbers rolled by each player.
-5. The result will be displayed below the dice images, indicating the winner.
+4. The dice values will update with the corresponding numbers rolled by each player.
+5. The result will be displayed below the dice values, indicating the winner.
 
 ## Technologies Used
 
